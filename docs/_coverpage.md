@@ -1,6 +1,6 @@
 ![logo](http://apppoint.com/storage/app/media/images/img/logospp.png)
 
-# BizAPP <small>2.0</small>
+# BizAPP Studio<small>2.0</small>
 
 > One place documentation for BizAPP and API's
 
