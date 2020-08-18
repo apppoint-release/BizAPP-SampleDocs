@@ -6,4 +6,3 @@
 
 [Get Started](#github-and-git-tools)
 
-![color](#f0f0f0)
